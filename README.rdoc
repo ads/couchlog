@@ -26,7 +26,7 @@ Install CouchDB on a server that your application has access to.
 
 Install the current version of the plugin:
 
-  script/plugin install git://github.com/rdempsey/couchlog.git
+  script/plugin install git://github.com/ads/couchlog.git
   
 Install the couchrest gem
 
